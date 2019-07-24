@@ -295,6 +295,10 @@ defaults:
       share: true
       related: true
 
-
-      #_pages
-    
+  # _pages
+  - scope:
+    path: ""
+    type: Pages
+  values:
+    layout: single
+    author_profile: true
