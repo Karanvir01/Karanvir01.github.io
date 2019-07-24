@@ -297,9 +297,4 @@ defaults:
 
 
       #_pages
-      - scope:
-          path: ""
-          type: posts
-        values:
-          layout: single
-          author_profile: true
+    
