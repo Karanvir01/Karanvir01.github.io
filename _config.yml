@@ -110,7 +110,7 @@ author:
   name             : "Karanvir Jassal"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer Science Portfolio"
-  location         : "Somewhere"
+  location         : "Chantilly, Virginia"
   email            :
   links:
     - label: "Email"
@@ -294,3 +294,13 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
