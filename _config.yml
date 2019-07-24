@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Karanvir Jassal"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Computer Science Portfolio"
   location         : "Somewhere"
   email            :
   links:
@@ -294,3 +294,12 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+      #_pages
+      - scope:
+          path: ""
+          type: posts
+        values:
+          layout: single
+          author_profile: true
