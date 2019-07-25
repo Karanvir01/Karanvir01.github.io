@@ -6,5 +6,5 @@ author_profile: true
 header:
   image: "/images/suit.jpg"
   - title: "Stock Project"
-    url: /projects/
+    url: /stocks/
 ---
