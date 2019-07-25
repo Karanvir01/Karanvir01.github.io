@@ -9,4 +9,4 @@ header:
 ---
 
 
-[link](https://karanvir01.github.io/about/)
+[link](https://karanvir01.github.io/stocks/)
