@@ -14,6 +14,8 @@ The most significant project I have conducted is a Machine Learning project that
 
 The link to the project post: [Predicting Stock Price Trends using Machine Learning Algorithms](https://karanvir01.github.io/stocks/)
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/stock.jpeg" alt="This shows what Linear Regression is">
+
 ## Using the MiniMax Algorithm to create a unbeatable TicTacToe AI
 
 Artificial Intelligence has interested me since I was a kid. From taking inspiration from Tesla's autopilot and from the iPhone's SIRI, I decided to make a TicTacToe game that would use Artificial Intelligence to become unbeatable. This project was coded in Java.
