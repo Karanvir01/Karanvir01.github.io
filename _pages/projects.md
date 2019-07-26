@@ -7,6 +7,8 @@ header:
 
 
 ---
+Over the course of the last two years, I have done several Computer Science projects. In this page, I will highlight the most significant projects I have done thus far.
 
+The most significant project I have conducted is a Machine Learning project that utilizes Neural Networks, Naive Bayes, and Linear Regression to predict stock price trends.
 
-[link](https://karanvir01.github.io/stocks/)
+The link to the project post: [Predicting Stock Price Trends using Machine Learning Algorithms](https://karanvir01.github.io/stocks/)
