@@ -21,10 +21,10 @@ Hi. My name is Karanvir Jassal. I am originally from New York but have moved to 
 
 # Leadership Experience
 1. I was the President of my Robotics Club that won 2nd in regionals
-2. I was the Captain in our Debate time
+2. I was the Captain of our Debate team that won the States Competition
 3. Created Coding Club in school
 
-# Awards Recieved
+# Awards Received
 1. Apple Federal Credit Union Scholarship Recipient
 2. PSAT National Merit Scholarship
 3. VEX Robotics 2nd place in regionals
