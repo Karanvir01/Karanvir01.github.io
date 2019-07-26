@@ -21,3 +21,7 @@ The link to the project post: [Predicting Stock Price Trends using Machine Learn
 Artificial Intelligence has interested me since I was a kid. From taking inspiration from Tesla's autopilot and from the iPhone's SIRI, I decided to make a TicTacToe game that would use Artificial Intelligence to become unbeatable. This project was coded in Java.
 
 The link to the project post: [Using the MiniMax Algorithm to create an unbeatable TicTacToe AI](https://karanvir01.github.io/tic/)
+
+# My Experience
+
+Along with the many difficult projects that I have conducted, I have also gained much needed experience in the Computer Science field.
