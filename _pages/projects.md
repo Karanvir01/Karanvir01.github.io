@@ -22,6 +22,12 @@ Artificial Intelligence has interested me since I was a kid. From taking inspira
 
 The link to the project post: [Using the MiniMax Algorithm to create an unbeatable TicTacToe AI](https://karanvir01.github.io/tic/)
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/toe.png" alt="This shows what Linear Regression is">
+
 # My Experience
 
 Along with the many difficult projects that I have conducted, I have also gained much needed experience in the Computer Science field.
+
+## DataBase Administrator Intern
+
+In this internship, I shadowed a Database Administrator. I would help handle capacity planning, evaluate database server hardware, and manage all aspects of an Oracle database including installation, configuration, design, and data migration.
