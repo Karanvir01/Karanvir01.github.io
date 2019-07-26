@@ -34,6 +34,13 @@ In this internship, I shadowed a Database Administrator. I would help handle cap
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/dba.jpg" alt="This shows what Linear Regression is">
 
+## NASA Summer Academy Intern
+
+I was given the opportunity to intern at the Virginia Space Coast NASA program. This unique opportunity allowed me to express my leadership skills and create a framework mission to Mars alongside many NASA engineers. I was elected to be the project leader for my group, which meant I was in charge of making sure everything was running smooth and up-to date.
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/rocket.jpeg" alt="This shows what Linear Regression is">
+
+
 ## Computer Science Teacher Assistant
 
 In my high school, I was the Computer Science Teacher Assistant. I would help the teacher create lesson plans, assist in making the website that we used, manage a sector of the students, and make sure that all the students understood the lessons that the teacher was teaching.
