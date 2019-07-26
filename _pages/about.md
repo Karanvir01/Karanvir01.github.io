@@ -17,6 +17,7 @@ Hi. My name is Karanvir Jassal. I am originally from New York but have moved to 
 # Some interests of mine:
 1. I love coding games in my spare time.
 2. I enjoy working out and playing sports as well.
+3. I also like making websites for friends and family as well.
 
 # Leadership Experience
 1. I was the President of my Robotics Club that won 2nd in regionals
