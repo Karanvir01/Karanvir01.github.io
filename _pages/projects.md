@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "My projects"
+title: "My Projects and Experience"
 author_profile: true
 header:
   image: "/images/proj.jpg"
@@ -31,3 +31,11 @@ Along with the many difficult projects that I have conducted, I have also gained
 ## DataBase Administrator Intern
 
 In this internship, I shadowed a Database Administrator. I would help handle capacity planning, evaluate database server hardware, and manage all aspects of an Oracle database including installation, configuration, design, and data migration.
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/dba.jpg" alt="This shows what Linear Regression is">
+
+## Computer Science Teacher Assistant
+
+In my high school, I was the Computer Science Teacher Assistant. I would help the teacher create lesson plans, assist in making the website that we used, manage a sector of the students, and make sure that all the students understood the lessons that the teacher was teaching. 
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/assist.jpg" alt="This shows what Linear Regression is">
