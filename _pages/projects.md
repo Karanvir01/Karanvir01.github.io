@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "My Projects and Experience"
+title: "My Projects"
 author_profile: true
 header:
   image: "/images/proj.jpg"
@@ -36,6 +36,6 @@ In this internship, I shadowed a Database Administrator. I would help handle cap
 
 ## Computer Science Teacher Assistant
 
-In my high school, I was the Computer Science Teacher Assistant. I would help the teacher create lesson plans, assist in making the website that we used, manage a sector of the students, and make sure that all the students understood the lessons that the teacher was teaching. 
+In my high school, I was the Computer Science Teacher Assistant. I would help the teacher create lesson plans, assist in making the website that we used, manage a sector of the students, and make sure that all the students understood the lessons that the teacher was teaching.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/assist.jpg" alt="This shows what Linear Regression is">
