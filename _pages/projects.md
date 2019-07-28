@@ -34,7 +34,7 @@ In this internship, I shadowed a Database Administrator. I would help handle cap
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/dba.jpg" alt="This shows what Linear Regression is">
 
-## NASA Summer Academy Intern
+## NASA Academy Intern
 
 I was given the opportunity to intern at the Virginia Space Coast NASA program. This unique opportunity allowed me to express my leadership skills and create a framework mission to Mars alongside many NASA engineers. I was elected to be the project leader for my group, which meant I was in charge of making sure everything was running smooth and up-to date.
 
