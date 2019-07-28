@@ -30,7 +30,7 @@ Along with the many difficult projects that I have conducted, I have also gained
 
 ## DataBase Administrator Intern
 
-In this internship, I shadowed a Database Administrator. I would help handle capacity planning, evaluate database server hardware, and manage all aspects of an Oracle database including installation, configuration, design, and data migration.
+In this internship, I assisted a Database Administrator. I would help handle capacity planning, evaluate database server hardware, and manage all aspects of an Oracle database including installation, configuration, design, and data migration.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/dba.jpg" alt="This shows what Linear Regression is">
 
